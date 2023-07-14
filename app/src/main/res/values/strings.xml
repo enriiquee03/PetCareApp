@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PetDayCareKotAndFire</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="genero">Genero</string>
+    <string name="a_ade_una_mascota">Añade una mascota</string>
+    <string name="nueva">NUEVA</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="tu_mascota_ha_sido_creada">Tu mascota ha sido creada</string>
+    <string name="tu_mascota_ha_sido_editada">Tu mascota ha sido editada</string>
+    <string-array name="gender">
+        <item>Maculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
